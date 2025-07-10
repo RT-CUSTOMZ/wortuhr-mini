@@ -2,7 +2,7 @@
 
 Im Das Buchstabenlayout dieser WortUhr ist angelehnt an das Layout, welches von Frank Meyer verwendet wird.
 
-![Front view](/Bauanleitung/Perspektivisch schräg.png)
+![Front view](Bauanleitung/Perspektivisch%20schr%C3%A4g.png)
 # Software
 
 Die Software von Frank Meyer wurde minimal angepasst. Das Layout der Matrix, sowie die Datenrichtung wurde angepasst.
