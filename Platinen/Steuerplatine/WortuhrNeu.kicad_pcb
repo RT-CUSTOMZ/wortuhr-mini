@@ -23430,6 +23430,43 @@
 			(justify left bottom)
 		)
 	)
+	(dimension
+		(type orthogonal)
+		(layer "Edge.Cuts")
+		(uuid "b42805a3-dcd5-44f6-b893-678e66a1286a")
+		(pts
+			(xy 41.75 169.5) (xy 380.75 169.5)
+		)
+		(height 21.5)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.05)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "339.0000 mm"
+			(at 211.25 189.85 0)
+			(layer "Edge.Cuts")
+			(uuid "b42805a3-dcd5-44f6-b893-678e66a1286a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
 	(segment
 		(start 175.192247 153.442247)
 		(end 175.25 153.5)
