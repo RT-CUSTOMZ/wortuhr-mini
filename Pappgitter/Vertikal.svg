@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="616.5"
-     inkscape:cy="396.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="426"
+     inkscape:zoom="1.1676562"
+     inkscape:cx="792.18523"
+     inkscape:cy="616.19165"
+     inkscape:window-width="2880"
+     inkscape:window-height="1814"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -38,33 +38,16 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.20784;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+    <path
        id="rect1"
-       width="349.28223"
-       height="33.79216"
-       x="25.09668"
-       y="61.978302" />
+       style="fill:none;stroke:#000000;stroke-width:0.235931;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 25.110612 61.992598 L 25.110612 76.862492 L 45.071151 76.862492 L 45.071151 84.288912 L 46.023547 84.288912 L 46.023547 106.75627 L 60.785437 106.75627 L 60.785437 84.288912 L 62.690747 84.288912 L 62.690747 106.75627 L 77.452637 106.75627 L 77.452637 84.288912 L 79.357947 84.288912 L 79.357947 106.75627 L 94.119836 106.75627 L 94.119836 84.288912 L 96.025146 84.288912 L 96.025146 106.75627 L 110.78704 106.75627 L 110.78704 84.288912 L 112.69183 84.288912 L 112.69183 106.75627 L 127.45424 106.75627 L 127.45424 84.288912 L 129.35903 84.288912 L 129.35903 106.75627 L 144.12144 106.75627 L 144.12144 84.288912 L 146.02623 84.288912 L 146.02623 106.75627 L 160.78864 106.75627 L 160.78864 84.288912 L 162.69343 84.288912 L 162.69343 106.75627 L 177.45532 106.75627 L 177.45532 84.288912 L 179.36063 84.288912 L 179.36063 106.75627 L 194.12252 106.75627 L 194.12252 84.288912 L 196.02783 84.288912 L 196.02783 106.75627 L 210.78972 106.75627 L 210.78972 84.288912 L 212.69451 84.288912 L 212.69451 106.75627 L 227.45692 106.75627 L 227.45692 84.288912 L 229.36171 84.288912 L 229.36171 106.75627 L 244.12412 106.75627 L 244.12412 84.288912 L 246.02891 84.288912 L 246.02891 106.75627 L 260.79132 106.75627 L 260.79132 84.288912 L 262.69611 84.288912 L 262.69611 106.75627 L 277.458 106.75627 L 277.458 84.288912 L 279.36331 84.288912 L 279.36331 106.75627 L 294.1252 106.75627 L 294.1252 84.288912 L 296.03051 84.288912 L 296.03051 106.75627 L 310.7924 106.75627 L 310.7924 84.288912 L 312.69771 84.288912 L 312.69771 106.75627 L 327.4596 106.75627 L 327.4596 84.288912 L 329.36439 84.288912 L 329.36439 106.75627 L 344.1268 106.75627 L 344.1268 84.288912 L 344.89781 84.288912 L 344.89781 76.938973 L 364.87489 76.938973 L 364.87489 61.992598 L 25.110612 61.992598 z " />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect2"
-       width="19.420811"
-       height="29.420811"
-       x="25.09668"
-       y="66.349655" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect3"
-       width="4.5390034"
-       height="14.815778"
-       x="44.51749"
-       y="80.954681" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.195735;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4"
-       width="1.7097229"
-       height="19.819471"
-       x="49.029102"
-       y="75.965538" />
+       width="340"
+       height="45"
+       x="24.99275"
+       y="123.87554" />
   </g>
 </svg>
