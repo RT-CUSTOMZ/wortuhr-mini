@@ -1,5 +1,5 @@
 Drill report for PowerPCB.kicad_pcb
-Created on 2025-07-21T20:03:55+0200
+Created on 2025-07-23T13:45:27+0200
 
 Copper Layer Stackup:
     =============================================================
@@ -10,19 +10,19 @@ Copper Layer Stackup:
 Drill file 'PowerPCB-PTH-drl.gbr' contains
     plated through holes:
     =============================================================
-    T1  0.600mm  0.0236"  (16 holes)
-    T2  0.710mm  0.0280"  (2 holes)
-    T3  0.800mm  0.0315"  (4 holes)
-    T4  0.900mm  0.0354"  (2 holes)
-    T5  1.000mm  0.0394"  (76 holes)  (with 3 slots)
-    T6  1.200mm  0.0472"  (6 holes)
+    T1  0.600mm  0.0236"  (144 holes)
+    T2  0.710mm  0.0280"  (18 holes)
+    T3  0.800mm  0.0315"  (36 holes)
+    T4  0.900mm  0.0354"  (18 holes)
+    T5  1.000mm  0.0394"  (684 holes)  (with 27 slots)
+    T6  1.200mm  0.0472"  (54 holes)
 
-    Total plated holes count 106
+    Total plated holes count 954
 
 
 Drill file 'PowerPCB-NPTH-drl.gbr' contains
     unplated through holes:
     =============================================================
-    T1  3.200mm  0.1260"  (5 holes)
+    T1  3.200mm  0.1260"  (45 holes)
 
-    Total unplated holes count 5
+    Total unplated holes count 45

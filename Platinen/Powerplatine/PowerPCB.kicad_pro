@@ -522,7 +522,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Folienexport/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
