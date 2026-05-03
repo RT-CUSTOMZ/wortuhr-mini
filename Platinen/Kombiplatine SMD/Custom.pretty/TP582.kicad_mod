@@ -1,0 +1,271 @@
+(footprint "TP582"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG205L.pdf")
+	(tags "Photointerrupter  infrared LED with photo IC")
+	(property "Reference" "U9"
+		(at 14.93 5.72 180)
+		(layer "F.SilkS")
+		(uuid "c165c345-1aa7-4528-a0a1-69ece6ba0530")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TP582"
+		(at 4.33 -3.15 180)
+		(layer "F.Fab")
+		(uuid "80792898-364f-413a-8212-8c7836ffb10e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206L.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efdf3a02-0eba-40f9-8f3b-de77bc10622a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Photointerrupter infrared LED with photo IC, inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206X"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f67d010-dcb8-42af-8461-8bb5b3cf91bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.62 -1.87)
+		(end 17.1 -1.87)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "321eb8e2-ce33-44ac-a247-50f06f4aaab0")
+	)
+	(fp_line
+		(start -1.62 4.37)
+		(end -1.62 -1.87)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5119a34a-c9d2-449e-90a1-88563ced39f2")
+	)
+	(fp_line
+		(start 17.1 -1.87)
+		(end 17.1 4.37)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71fc42a4-b093-4b91-b62e-92e0191d5466")
+	)
+	(fp_line
+		(start 17.1 4.37)
+		(end -1.62 4.37)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "33aa82c7-bb92-4cee-8672-aefb3e2e83dc")
+	)
+	(fp_line
+		(start 17.36 2.52)
+		(end 17.36 4.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c02b776c-9d6f-41ef-89dd-c528b5aaae26")
+	)
+	(fp_line
+		(start 17.36 4.62)
+		(end 15.13 4.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cebf69e5-7c89-4828-80b7-3212872c44b8")
+	)
+	(fp_line
+		(start -1.75 -2)
+		(end 17.23 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3418ccac-ac25-4f4b-9cf2-92c262ad5d74")
+	)
+	(fp_line
+		(start -1.75 4.5)
+		(end -1.75 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d56c1dd0-6c4d-4ab2-a540-7e3491cb1bf5")
+	)
+	(fp_line
+		(start 17.23 -2)
+		(end 17.23 4.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7f69990a-f6f0-4263-b226-5f7d29b8ae5c")
+	)
+	(fp_line
+		(start 17.23 4.5)
+		(end -1.75 4.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2f30a90-4f84-494c-813f-b2247a9c2178")
+	)
+	(fp_line
+		(start -1.5 4.25)
+		(end -1.5 -1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0f19c2b9-136e-4aae-b546-8e54670a4eaf")
+	)
+	(fp_line
+		(start 15.98 4.25)
+		(end -1.5 4.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "142e8390-faf7-42e0-9041-1de4df8a7a27")
+	)
+	(fp_line
+		(start 16.98 -1.75)
+		(end -1.5 -1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "002ecdb0-629b-483b-ad45-6b2fb9e3d5f3")
+	)
+	(fp_line
+		(start 16.98 -1.75)
+		(end 16.98 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "75ef2223-d568-42b1-93e6-aab32b8abb2e")
+	)
+	(fp_line
+		(start 16.98 3.25)
+		(end 15.98 4.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "03f0939a-dee8-4de6-a3ed-582323def643")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9.43 1.15 180)
+		(layer "F.Fab")
+		(uuid "1fb03c9d-7713-4c00-8b65-6594cde25200")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -0.11 -0.02 180)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "02ccded0-d9b5-4888-b70f-c1bbad7e18f4")
+	)
+	(pad "2" thru_hole circle
+		(at -0.11 2.52 180)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a01b98e8-6c1b-4766-ba3f-eee8b2514d8c")
+	)
+	(pad "3" thru_hole roundrect
+		(at 15.13 3.25 180)
+		(size 1.4 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.227)
+		(uuid "0d942975-1050-46bd-ae51-9c9cb3c19d60")
+	)
+	(pad "4" thru_hole oval
+		(at 15.13 1.35 180)
+		(size 1.4 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9af46b3d-ca81-44c8-86b2-9e0688c4df73")
+	)
+	(pad "5" thru_hole oval
+		(at 15.13 -0.55 180)
+		(size 1.4 1.1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c374044e-6c5b-414f-912c-fbbd6e8684d5")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPST_Fujitsu_FTR-F1A.wrl"
+		(offset
+			(xyz 15.5 -0.1 0)
+		)
+		(scale
+			(xyz 0.5 0.64 0.8)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)
