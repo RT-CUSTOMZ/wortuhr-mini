@@ -12964,7 +12964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical"
 			(at 153.67 95.25 0)
 			(effects
 				(font
@@ -14454,7 +14454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "236a2817-681f-4be7-aa61-19426c44d4c7")
-		(property "Reference" "H7"
+		(property "Reference" "H5"
 			(at 170.18 293.3699 0)
 			(effects
 				(font
@@ -14503,7 +14503,7 @@
 		(instances
 			(project "WortuhrNeu"
 				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
-					(reference "H7")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -17030,70 +17030,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 185.42 294.64 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "6ab53993-d021-4526-ad7a-d44b7e29d281")
-		(property "Reference" "H9"
-			(at 187.96 293.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 187.96 295.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
-			(at 185.42 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 185.42 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 185.42 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "WortuhrNeu"
-				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
-					(reference "H9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 101.6 44.45 0)
 		(unit 1)
@@ -17160,7 +17096,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 158.75 294.64 0)
+		(at 179.07 294.64 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -17169,7 +17105,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b96e11f-0dbe-4b45-8249-18060420162e")
 		(property "Reference" "H6"
-			(at 161.29 293.3699 0)
+			(at 181.61 293.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17178,7 +17114,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 161.29 295.9099 0)
+			(at 181.61 295.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17188,7 +17124,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
-			(at 158.75 294.64 0)
+			(at 179.07 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17197,7 +17133,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 294.64 0)
+			(at 179.07 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17206,7 +17142,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 158.75 294.64 0)
+			(at 179.07 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19874,7 +19810,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 157.48 66.04 0)
+		(at 138.43 72.39 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -19883,7 +19819,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca6051fa-c428-4543-97a9-1b56a6604ec7")
 		(property "Reference" "H2"
-			(at 160.02 64.7699 0)
+			(at 140.97 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19892,7 +19828,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 160.02 67.3099 0)
+			(at 140.97 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19902,7 +19838,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
-			(at 157.48 66.04 0)
+			(at 138.43 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19911,7 +19847,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 66.04 0)
+			(at 138.43 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19920,7 +19856,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 157.48 66.04 0)
+			(at 138.43 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21157,7 +21093,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 173.99 69.85 0)
+		(at 190.5 72.39 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -21166,7 +21102,7 @@
 		(fields_autoplaced yes)
 		(uuid "e9f5397a-7ab2-4421-a930-357ed15b9bfd")
 		(property "Reference" "H3"
-			(at 176.53 68.5799 0)
+			(at 193.04 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21175,7 +21111,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 176.53 71.1199 0)
+			(at 193.04 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21185,7 +21121,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
-			(at 173.99 69.85 0)
+			(at 190.5 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21194,7 +21130,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 69.85 0)
+			(at 190.5 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21203,7 +21139,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 173.99 69.85 0)
+			(at 190.5 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21625,71 +21561,6 @@
 			(project "WortuhrNeu"
 				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
 					(reference "X18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 176.53 294.64 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb6dbf5c-2178-4f47-b88e-e9a43d131b5c")
-		(property "Reference" "H8"
-			(at 179.07 293.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 179.07 295.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
-			(at 176.53 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 176.53 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "WortuhrNeu"
-				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
-					(reference "H8")
 					(unit 1)
 				)
 			)
