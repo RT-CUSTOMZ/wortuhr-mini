@@ -3,9 +3,8 @@
 Kleinere Version der Original Campuswochen Wortuhr. 
 Das Buchstabenlayout dieser WortUhr ist angelehnt an das Layout, welches von Frank Meyer verwendet wird.
 
-Der Aufbau ist nun kompatibel mit 60 LED/m WS2812B/SK6812 LED Streifen. Um das zu erreichen ist die Rahmengröße reduziert auf 35cm Innenmaß. Hierzu eignet sich zum Beispiel der IKEA SANNAHED 35x35cm Rahmen. Die Steuerplatine ist auf das wesentliche beschränkt, die Stromversorgung übernimmt ein einziges generisches DCDC XL4015 Netzteil. Es wird weiterhin über einen Rundbuchsenanschluss mit 19-21V eingespeist. 
-![Steuerplatine](Bauanleitung/Perspektivisch%20schr%C3%A4g.png)
-![Powerplatine](Bauanleitung/PP_Perspektivisch_schraeg.png)
+Der Aufbau ist nun kompatibel mit 60 LED/m WS2812B/SK6812 LED Streifen. Um das zu erreichen ist die Rahmengröße reduziert auf 35cm Innenmaß. Hierzu eignet sich zum Beispiel der IKEA SANNAHED 35x35cm Rahmen. Die Steuerplatine ist auf das wesentliche beschränkt, die Stromversorgung übernimmt ein einziges generisches DCDC XL4015 Netzteil. Es wird weiterhin über einen Rundbuchsenanschluss mit 19-21V eingespeist. Um die Bestellung möglichst einfach zu gestalten werden die Power und Steuerplatine auf eine gemeinsame Platine gepaneled.(Siehe Kombiplatine THT)
+![Kombilatine](Bauanleitung/FullView.png)
 # Software
 
 Die Software von Frank Meyer wurde minimal angepasst. Das Layout der Matrix, sowie die Datenrichtung wurde angepasst.
