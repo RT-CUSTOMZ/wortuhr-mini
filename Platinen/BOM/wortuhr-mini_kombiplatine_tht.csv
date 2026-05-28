@@ -1,0 +1,34 @@
+ID;Bezeichner;Footprint;Stückzahl;Bezeichnung;Anbieter und Referenz
+1;C19;C_1812_4532Metric_Pad1.57x3.40mm_HandSolder;1;np;-
+2;SW1,SW2;SW_Tactile_SPST_Angled_PTS645Vx83-2LFS;2;PTS645Vx83-2LFS;https://www.mouser.de/ProductDetail/CK/PTS645VL83-2-LFS?qs=rqnA19JZHeTMBWXURLIBsQ%3D%3D
+3;R4;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;120R;
+4;C1,C13;CP_Radial_D10.0mm_P5.00mm;2;47u;
+5;U2;TO-263-5_TabPin3;1;MCP1826-ADJE/ET;
+6;C3,C4,C20,C9,C7;C_Disc_D4.7mm_W2.5mm_P5.00mm;5;10u;
+7;C5,C17,C14,C15,C8,C6,C2,C10,C18;C_Disc_D4.7mm_W2.5mm_P5.00mm;9;100n/X7R;https://www.mouser.de/ProductDetail/Vishay-BC-Components/K104M10X7RF5TH5?qs=ZjM2s42DDya77A69h%2FjzHg%3D%3D
+8;R2;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;22k;22k Metallschicht 1/4 Watt, 6,5mm, axial
+9;R3;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;160k;160k Metallschicht 1/4 Watt, 6,5mm, axial
+10;R12,R14,R10,R13,R5;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;5;8k2;
+11;R9,R11;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;2;4K53;
+12;J1;TestPoint_Pad_1.0x1.0mm;1;Conn_01x01_Pin;-
+13;J3;PinHeader_1x02_P2.54mm_Vertical;1;UART FLOATING;-
+14;X5,X4,X1,X7,X17,X3,X18,X14,X8,X16,X12,X10,X6,X13,X2,X9,X11,X15,X19;PinHeader_1x03_P2.54mm_Vertical;19;Conn_01x03_Pin;https://www.mouser.de/ProductDetail/Preci-dip/801-87-010-53-001101?qs=q5BRkYolQ3jHhHUKXrMBBA%3D%3D
+15;U6;Arduino_Nano;1;Arduino_Nano_Every;
+16;U5;DS3231 Module;1;~;https://eckstein-shop.de/RTC-Modul-mit-DS3231M-oder-DS3231SN-AT24C32-I2C-Echtzeituhr-mit-Batterie-fuer-Arduino-Raspberry-Pi
+17;R1,R6;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;2;np;-
+18;R8;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;100k;100k Metallschicht 1/4 Watt, 6,5mm, axial
+19;J2;PinHeader_1x03_P2.54mm_Vertical;1;PROG MODE;-
+20;C16,C11,C12;C_Disc_D4.7mm_W2.5mm_P5.00mm;3;1nF/X7R;https://www.mouser.de/ProductDetail/Vishay-BC-Components/K102K15X7RF5UL2?qs=jPcpbI%252BG3FVUWYXRx4IYpg%3D%3D
+21;U7;ESP-07;1;ESP-12F;https://www.az-delivery.de/en/products/esp8266-12e
+22;U1;DIP-6_W7.62mm_Socket_LongPads;1;H11L1;https://www.mouser.de/ProductDetail/Adam-Tech/ICS-306-T?qs=FG09h9tFCuB6nMjq34Whag%3D%3D
+;;;;;https://www.mouser.de/ProductDetail/onsemi-Fairchild/H11L1TVM?qs=CaO7pQPYUzN4Nhr0JH3IIg%3D%3D
+23;U4;TO-92_Inline;1;DS18B20;https://www.reichelt.de/de/de/shop/produkt/digital_thermometer_1-wire_-_0_5_c_to-92-58169
+24;R7;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;240k;240k Metallschicht 1/4 Watt, 6,5mm, axial
+25;R15;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;91R;
+26;LDR1;R_LDR_4.9x4.2mm_P2.54mm_Vertical;1;A 905014;
+27;U3;Bluepill;1;Bluepill;https://www.amazon.de/STM32F103C8T6-Minimum-Development-Learning-Importiertem/dp/B0B6BQSTSZ
+;;;;;https://www.mouser.de/ProductDetail/STMicroelectronics/STM32F103C8T6?qs=bhCVus9SdFtq6kqxsU5%2FDA%3D%3D
+28;J4;PinHeader_1x04_P2.54mm_Vertical;1;UART;https://www.mouser.de/ProductDetail/Amphenol-FCI/10129378-916001BLF?qs=0lQeLiL1qybYnH80ih0s8Q%3D%3D
+;;Netzteil Buchse;;;https://www.reichelt.de/de/de/shop/produkt/hohlstecker_knickschutz_aussen_5_5_mm_innen_2_1_mm-8647
+;;DCDC Versorgung;;;https://www.az-delivery.de/en/products/spannungswandler-5a-8-36v-zu-1-25-32v?variant=6127498887195
+;;LEDs;;;https://www.az-delivery.de/en/products/ws2812b-60-leds-m-60-pixels-m-led-strip-rgb-adressierbarer-led-streifen-mit-5050-smd-leds-ip20-schwarz-nicht-wasserdicht?variant=46280494579979
