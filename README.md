@@ -31,6 +31,22 @@ Originaler Aufbau: https://www.mikrocontroller.net/articles/Tutorial_-_Aufbau_Wo
 8. Alle Einzelteile zusammenfügen. (pro Uhr ca. 1h)
 9. Die Dateien auf den ESP hochladen
 
+## Lötübungen 
+Auf Lochraster Platine Widerstände, Kondensatoren und Stiftleisten auflöten, mit Silberdraht Leitungen anlegen
+
+## Bestückung
+1. Doppelplatine trennen und Stege abschleifen
+2. Angefangen mit den Widerständen Bauteile nach Höhe aufsteigend verlöten
+
+   
+    **Wichtig: Alle Bauteile sind auf der bedruckten Seite angebracht, die andere Seite ist nur für Lötstellen da**
+3. Darauf achten dass die Elkos richtig herum sind (- auf Elko Richtung gefüllte Hälfte des Drucks)
+4. Die Diode D1 muss hochkannt geknickt angebracht werden, Strich der Diode Richtung Halbkreis, andere Seite Richtung A (Anode)
+5. Der MCP1826 Wandler (U2) ist am besten mit Lötpaste und Heissluft aufzulöten
+6. Beim DCDC Wandler darauf achten, dass Input und Out
+7. Beim DS3231 Modul müssen die bestehenden Horizontal gewinkelten Stiftleisten ausgelötet und durch Vertikale Richtung Knopfzelle zeigende Buchsenleisten ersetzt werden. Hierzu am besten die Stiftleisten zuerst an der Plastikbrücke auseinander Knipsen, dann einzeln auslöten
+8. 
+
 # Hardware:
 - [IKEA SANNAHED 35x35cm Rahmen](https://www.ikea.com/de/de/p/sannahed-rahmen-schwarz-80459117/)
 - STM32F103C8T6 BluePill

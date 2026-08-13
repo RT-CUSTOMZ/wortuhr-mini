@@ -1049,6 +1049,868 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Conn_01x08_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x08_Pin"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x08, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x08_Pin_1_1"
+				(rectangle
+					(start 0.8636 7.747)
+					(end 0 7.493)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -10.033)
+					(end 0 -10.287)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 7.62) (xy 0.8636 7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy 0.8636 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 0.8636 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 0.8636 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -7.62) (xy 0.8636 -7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -10.16) (xy 0.8636 -10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 7.62 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 180)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -10.16 180)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Conn_01x08_Socket"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x08_Socket"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x08, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x08_Socket_1_1"
+				(polyline
+					(pts
+						(xy -1.27 7.62) (xy -0.508 7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.08) (xy -0.508 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.54) (xy -0.508 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy -0.508 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -0.508 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -7.62) (xy -0.508 -7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -10.16) (xy -0.508 -10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 7.112)
+					(mid -0.5058 7.62)
+					(end 0 8.128)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 4.572)
+					(mid -0.5058 5.08)
+					(end 0 5.588)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 2.032)
+					(mid -0.5058 2.54)
+					(end 0 3.048)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -0.508)
+					(mid -0.5058 0)
+					(end 0 0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -3.048)
+					(mid -0.5058 -2.54)
+					(end 0 -2.032)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -5.588)
+					(mid -0.5058 -5.08)
+					(end 0 -4.572)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -8.128)
+					(mid -0.5058 -7.62)
+					(end 0 -7.112)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -10.668)
+					(mid -0.5058 -10.16)
+					(end 0 -9.652)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Custom:TP582"
 			(pin_names
 				(offset 1.016)
@@ -7290,8 +8152,24 @@
 		(uuid "07f921d3-d218-43ea-bd88-2c2e7d4ec190")
 	)
 	(no_connect
+		(at 182.88 173.99)
+		(uuid "08ff98c4-1c90-4992-951c-37a560075abb")
+	)
+	(no_connect
+		(at 182.88 176.53)
+		(uuid "097f914d-21c4-49d0-a2dc-c028947554f8")
+	)
+	(no_connect
 		(at 208.28 134.62)
 		(uuid "0c3d70e6-d977-478b-9763-f1456cdafe4e")
+	)
+	(no_connect
+		(at 170.18 163.83)
+		(uuid "10c591db-21e9-4e4b-b47d-c412c903d2a5")
+	)
+	(no_connect
+		(at 165.1 161.29)
+		(uuid "12427654-3463-47c8-ab60-009e01751947")
 	)
 	(no_connect
 		(at 273.05 109.22)
@@ -7300,6 +8178,14 @@
 	(no_connect
 		(at 134.62 107.95)
 		(uuid "158227c1-1ba7-44ab-8320-d23e8c4b8eea")
+	)
+	(no_connect
+		(at 182.88 171.45)
+		(uuid "1bf965e8-c3ba-4b6a-a8b9-196e6bcb703b")
+	)
+	(no_connect
+		(at 170.18 168.91)
+		(uuid "1ea19c77-f58a-4cbf-a4c8-89f1cae6aca7")
 	)
 	(no_connect
 		(at 208.28 101.6)
@@ -7314,8 +8200,24 @@
 		(uuid "2663271a-ed72-4a00-a90f-6c54891e77b7")
 	)
 	(no_connect
+		(at 182.88 166.37)
+		(uuid "267b2acd-ce22-4aaa-a272-ed21bfdb98ac")
+	)
+	(no_connect
+		(at 170.18 171.45)
+		(uuid "2948254a-837d-42fc-ad0a-e40a3eb0e463")
+	)
+	(no_connect
 		(at 273.05 116.84)
 		(uuid "2a356286-3cb9-4831-bfdd-33b41fea0405")
+	)
+	(no_connect
+		(at 165.1 173.99)
+		(uuid "2aadce4c-3881-47a8-aea1-6cf5459c4e71")
+	)
+	(no_connect
+		(at 182.88 161.29)
+		(uuid "312839a7-2ade-430a-82b3-2eb9e120603c")
 	)
 	(no_connect
 		(at 134.62 120.65)
@@ -7334,8 +8236,16 @@
 		(uuid "394ee25c-795d-4561-a608-4f8622fdfc3b")
 	)
 	(no_connect
+		(at 170.18 161.29)
+		(uuid "3b039baa-aee3-4925-a52a-9e0c6ec2a37f")
+	)
+	(no_connect
 		(at 208.28 116.84)
 		(uuid "3c49ee3c-bb9d-4952-9d60-61edcf59e709")
+	)
+	(no_connect
+		(at 165.1 166.37)
+		(uuid "3f28c31f-df78-4243-9a7e-fea0706fc9dd")
 	)
 	(no_connect
 		(at 17.78 186.69)
@@ -7370,6 +8280,10 @@
 		(uuid "56289415-ea5e-4f44-b659-cf9603defcf3")
 	)
 	(no_connect
+		(at 152.4 163.83)
+		(uuid "56bf11bc-0a1d-4dbc-a6f4-22f68fddb058")
+	)
+	(no_connect
 		(at 247.65 116.84)
 		(uuid "5b9b5f2c-21be-4374-b4db-823faa909707")
 	)
@@ -7378,12 +8292,28 @@
 		(uuid "5c8f8253-6aa0-4b26-894d-1219afd7e4ad")
 	)
 	(no_connect
+		(at 165.1 176.53)
+		(uuid "67d3e7fa-be6a-445c-a3cc-0313462acef4")
+	)
+	(no_connect
+		(at 152.4 176.53)
+		(uuid "6996e812-dc73-429a-9a42-be6742e1c02a")
+	)
+	(no_connect
 		(at 273.05 129.54)
 		(uuid "6b82df86-88df-4ad9-aee5-a54ab9ea2a12")
 	)
 	(no_connect
 		(at 247.65 93.98)
 		(uuid "6db2bc55-3983-4631-88ad-2ecf99cac9f5")
+	)
+	(no_connect
+		(at 152.4 173.99)
+		(uuid "72b7aeb3-1ed4-4a00-bea4-876fd40d5968")
+	)
+	(no_connect
+		(at 152.4 166.37)
+		(uuid "74a48c59-554d-4499-9cf2-7d5c0f2a89e4")
 	)
 	(no_connect
 		(at 273.05 124.46)
@@ -7398,12 +8328,24 @@
 		(uuid "7d903b2c-2d6a-4335-8445-3c895e909e3e")
 	)
 	(no_connect
+		(at 152.4 171.45)
+		(uuid "7f064221-ab1e-43e2-a01d-02cef69fb15e")
+	)
+	(no_connect
 		(at 273.05 127)
 		(uuid "81ec0a6c-77b8-4d49-864a-a3a47c91cb6d")
 	)
 	(no_connect
+		(at 182.88 163.83)
+		(uuid "84949a1c-f2a9-4628-beb0-e380ea77c062")
+	)
+	(no_connect
 		(at 247.65 121.92)
 		(uuid "87e56adb-0944-43a4-8273-36d181c38f10")
+	)
+	(no_connect
+		(at 165.1 168.91)
+		(uuid "8a3ac23a-4819-4070-8385-5c2805c073f5")
 	)
 	(no_connect
 		(at 17.78 179.07)
@@ -7418,8 +8360,32 @@
 		(uuid "986c6344-b2dd-4abf-9524-8edc0f129ad6")
 	)
 	(no_connect
+		(at 170.18 173.99)
+		(uuid "9c4997b4-8cd1-4ab5-a0f8-200988dbae68")
+	)
+	(no_connect
+		(at 170.18 179.07)
+		(uuid "a22be2dd-86b3-4694-b705-d5329fd80335")
+	)
+	(no_connect
+		(at 170.18 176.53)
+		(uuid "aa51d85d-42e1-4f85-a1ad-3ed3f0b63c97")
+	)
+	(no_connect
+		(at 152.4 161.29)
+		(uuid "ae98a850-b4e0-4783-8ed4-9c386dc53287")
+	)
+	(no_connect
+		(at 152.4 179.07)
+		(uuid "af4eb6d6-57d6-49de-bade-4906c5f8c205")
+	)
+	(no_connect
 		(at 273.05 119.38)
 		(uuid "b0c23673-b576-4e79-8a47-e7d7a1079d94")
+	)
+	(no_connect
+		(at 182.88 179.07)
+		(uuid "b18b26c9-9209-4db8-97a6-6a8241ba150a")
 	)
 	(no_connect
 		(at 273.05 101.6)
@@ -7438,6 +8404,10 @@
 		(uuid "b52c5722-9070-4b06-8069-7f1515dc3958")
 	)
 	(no_connect
+		(at 152.4 168.91)
+		(uuid "b675e9ef-04b8-4ae6-b8ab-048ae9e2bdc2")
+	)
+	(no_connect
 		(at 175.26 142.24)
 		(uuid "b677169f-4dab-47c5-a2ae-0a726d1c6fa8")
 	)
@@ -7450,8 +8420,20 @@
 		(uuid "b8301a5c-f7c1-44f2-a410-f1ffac035c72")
 	)
 	(no_connect
+		(at 165.1 171.45)
+		(uuid "baf8986a-27e3-4fea-bfa9-1a67e77f794f")
+	)
+	(no_connect
 		(at 175.26 119.38)
 		(uuid "bb36d654-337c-4946-bc21-7be8d9b2f8a2")
+	)
+	(no_connect
+		(at 165.1 179.07)
+		(uuid "be77b212-5a73-493e-b398-e7ed62b1f75f")
+	)
+	(no_connect
+		(at 170.18 166.37)
+		(uuid "c13c64d5-1e36-4753-8b0e-630187d07fb5")
 	)
 	(no_connect
 		(at 104.14 105.41)
@@ -7502,8 +8484,16 @@
 		(uuid "f282c984-2cb9-4ea8-bf55-ab2e18cb933d")
 	)
 	(no_connect
+		(at 182.88 168.91)
+		(uuid "f6e8ff2c-74a1-4d60-8d05-76bf75c5c60e")
+	)
+	(no_connect
 		(at 247.65 132.08)
 		(uuid "fb505a24-7c7c-4faf-b039-58b04f4669de")
+	)
+	(no_connect
+		(at 165.1 163.83)
+		(uuid "fc9c8cea-2fc7-472c-a78e-050d60c85353")
 	)
 	(no_connect
 		(at 17.78 184.15)
@@ -12661,7 +13651,7 @@
 			)
 		)
 	)
-	(global_label "+5V4"
+	(global_label "+5V"
 		(shape input)
 		(at 101.6 59.69 90)
 		(fields_autoplaced yes)
@@ -13591,6 +14581,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 153.67 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2980ea57-270d-4808-802e-3d50ec4fecd1")
 		)
@@ -13832,6 +14833,104 @@
 			(project "WortuhrNeu"
 				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x08_Pin")
+		(at 175.26 171.45 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0498b4fe-0e33-44dc-97ba-071bab34b0f8")
+		(property "Reference" "J7"
+			(at 172.466 158.242 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x08_Pin"
+			(at 174.625 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical"
+			(at 175.26 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Pin Header 2.00mm 1x08"
+			(at 175.26 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ebe9893c-cb43-49d3-9c49-fa1ec57e090f")
+		)
+		(pin "4"
+			(uuid "7814a85f-9ee3-47fa-9c38-17c59ab01e1b")
+		)
+		(pin "6"
+			(uuid "f4750ba5-ef1d-4319-82f5-508731cb3359")
+		)
+		(pin "3"
+			(uuid "91ff6761-8af7-4c21-8f45-83b5bc2b189a")
+		)
+		(pin "1"
+			(uuid "f49e5b3e-5796-4ee8-aac4-bbef61ee09f5")
+		)
+		(pin "7"
+			(uuid "3dabcd99-13bb-48d1-8202-3ac030fc3e73")
+		)
+		(pin "5"
+			(uuid "78375fa4-90ab-49fc-a5ab-65e994e551a3")
+		)
+		(pin "8"
+			(uuid "a16fb749-e5fe-4ad9-8a91-ef798172fc69")
+		)
+		(instances
+			(project "WortuhrNeu"
+				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -14383,7 +15482,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 220.98 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14432,7 +15531,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 34.29 102.8762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14465,7 +15564,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 31.75 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -14545,7 +15644,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 71.12 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -14781,7 +15880,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 143.51 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -14863,7 +15962,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 85.09 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -15674,7 +16773,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 111.76 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -15785,6 +16884,106 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x08_Pin")
+		(at 160.02 168.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2aae1023-deb1-4209-88f4-1491ac3066c7")
+		(property "Reference" "J6"
+			(at 155.194 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x08_Pin"
+			(at 158.75 168.9101 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical"
+			(at 160.02 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Pin Header 2.00mm 1x08"
+			(at 160.02 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f76c1927-1ad0-467a-bf57-ca5a4f4c0476")
+		)
+		(pin "4"
+			(uuid "5e6098b9-1aa6-4268-be41-d8501b2a52c4")
+		)
+		(pin "6"
+			(uuid "afeabb7c-f3b8-40c2-8579-9515ff799e21")
+		)
+		(pin "3"
+			(uuid "bfe5f387-0cbd-40b4-845b-e1181fcd4f48")
+		)
+		(pin "1"
+			(uuid "8d8dd149-801b-408c-b6e0-87bc307fd461")
+		)
+		(pin "7"
+			(uuid "1b7071f1-21fd-42c7-95fb-249ea7af97a4")
+		)
+		(pin "5"
+			(uuid "13d938e9-6672-41c2-9469-88654acc2001")
+		)
+		(pin "8"
+			(uuid "ef8129a5-47a7-4f7f-a769-ba1a93cbbf9c")
+		)
+		(instances
+			(project "WortuhrNeu"
+				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 236.22 92.71 0)
 		(unit 1)
@@ -15885,7 +17084,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Arduino_Nano_Every"
+		(property "Value" "Arduino nano"
 			(at 262.5441 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15919,7 +17118,7 @@
 				)
 			)
 		)
-		(property "Description" "Arduino Nano Every"
+		(property "Description" "Optional Arduino Nano for hijacking the WS2812 Signal and broadcasting your own"
 			(at 260.35 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -16250,7 +17449,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 227.33 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -16461,7 +17660,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 213.3663 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16493,7 +17692,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 213.36 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -16742,7 +17941,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 58.42 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -16791,7 +17990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 74.93 95.2562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16824,7 +18023,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 72.39 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -17039,7 +18238,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "47uF 25V"
 			(at 95.25 114.6809 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17072,7 +18271,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Polarized electrolytic capacitor 5mm pitch"
 			(at 99.06 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -17200,7 +18399,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "47u 25V"
 			(at 26.67 98.1709 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17233,7 +18432,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Polarized electrolytic capacitor 5mm pitch"
 			(at 22.86 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -17394,7 +18593,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 243.84 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -17442,7 +18641,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 220.9863 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17474,7 +18673,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 220.98 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -17728,7 +18927,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 63.5 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17807,7 +19006,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 138.43 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -17970,7 +19169,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "STM32F103C8T6 Bluepill"
 			(at 191.77 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -18811,7 +20010,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 153.67 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -18927,10 +20126,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "77adff14-50a0-4c20-8757-98b541d86488")
 		(property "Reference" "C19"
@@ -18977,7 +20176,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 105.41 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -19382,7 +20581,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 22.86 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -19462,7 +20661,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 66.04 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -19579,10 +20778,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "889b09e1-24f2-493e-90d1-75fc0fdfec0d")
 		(property "Reference" "R6"
 			(at 33.02 134.874 90)
@@ -19626,7 +20825,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 33.02 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -19785,7 +20984,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20156,7 +21355,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "DS3231 Module"
 			(at 33.655 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20188,7 +21387,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DS3231 Module with integrated AT24CS32, 2032 lithium cell"
 			(at 33.02 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -20448,7 +21647,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 213.36 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -20564,10 +21763,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a38151aa-ce85-4b94-8386-f788018069a4")
 		(property "Reference" "R1"
 			(at 31.75 54.864 90)
@@ -20611,7 +21810,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 31.75 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -20859,7 +22058,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 143.51 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -21024,7 +22223,7 @@
 				)
 			)
 		)
-		(property "Description" "2A Step-Down DC/DC-Regulator, 6.5-32V input, 5.0V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+		(property "Description" "2A Step-Down DC/DC-Regulator, 6.5-32V input, 5.0V fixed Output Voltage -40°C to +85°C, SIP3"
 			(at 199.39 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -21106,7 +22305,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 58.42 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -21623,6 +22822,106 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x08_Socket")
+		(at 157.48 168.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cba7fd3d-9053-4c31-8d61-46275902f07b")
+		(property "Reference" "J9"
+			(at 161.544 157.734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x08_Socket"
+			(at 147.32 155.448 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Vertical"
+			(at 157.48 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Pin Socket 2.00mm 1x08"
+			(at 157.48 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "6"
+			(uuid "e5cf7b43-a8e3-4aa4-92b9-3cc430b5f86f")
+		)
+		(pin "1"
+			(uuid "6c007665-3d62-494a-a77e-003d7a48f1e6")
+		)
+		(pin "4"
+			(uuid "9cae73b4-3afd-47c5-940f-09d8bf49677d")
+		)
+		(pin "3"
+			(uuid "63972edd-9b02-401f-bbf4-425f4ec90e72")
+		)
+		(pin "2"
+			(uuid "3c9a3a39-3c19-4957-a2e1-5908009b6724")
+		)
+		(pin "5"
+			(uuid "35cfc9e7-da17-4b58-b080-d5038a0e656d")
+		)
+		(pin "7"
+			(uuid "9145f871-fb7f-42c1-ac84-b788269820dd")
+		)
+		(pin "8"
+			(uuid "11f19153-badf-4aca-9e5d-5bece7a17ad3")
+		)
+		(instances
+			(project "WortuhrNeu"
+				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Sensor_Optical:LDR07")
 		(at 22.86 134.62 0)
 		(mirror y)
@@ -21838,7 +23137,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 24.13 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -21918,7 +23217,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 66.04 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -22248,7 +23547,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 254 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -22330,7 +23629,7 @@
 				)
 			)
 		)
-		(property "Description" "2A Step-Down DC/DC-Regulator, 6.5-32V input, 5.0V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+		(property "Description" "2A Step-Down DC/DC-Regulator, 6.5-32V input, 5.0V fixed Output Voltage -40°C to +85°C, SIP3"
 			(at 234.95 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -22491,7 +23790,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 33.02 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -22572,7 +23871,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 66.04 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -22653,7 +23952,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 248.92 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -22786,7 +24085,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP-07"
+		(property "Value" "ESP8266 Module"
 			(at 121.5741 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22819,7 +24118,7 @@
 				)
 			)
 		)
-		(property "Description" "802.11 b/g/n Wi-Fi Module"
+		(property "Description" "ESP-12F"
 			(at 119.38 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23025,7 +24324,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Axial 250mW"
 			(at 276.86 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -23467,7 +24766,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "1u"
 			(at 118.11 115.5762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23500,7 +24799,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 115.57 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -23605,6 +24904,104 @@
 			(project "WortuhrNeu"
 				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
 					(reference "X18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x08_Socket")
+		(at 177.8 171.45 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f9bce9b6-8552-4b7c-8948-7d1cf596d9de")
+		(property "Reference" "J8"
+			(at 180.086 158.242 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x08_Socket"
+			(at 178.435 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Vertical"
+			(at 177.8 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Pin Socket 2.00mm 1x08"
+			(at 177.8 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "6"
+			(uuid "afdfe9b3-fa60-4c5f-871e-6256ef37c048")
+		)
+		(pin "1"
+			(uuid "26eedfc7-117c-4705-abfe-9beca56d0ada")
+		)
+		(pin "4"
+			(uuid "ea46ff23-52ef-47c6-b6fb-9ae02c2739bf")
+		)
+		(pin "3"
+			(uuid "326acb17-3ad4-4b34-a4c2-3b20f766f8d1")
+		)
+		(pin "2"
+			(uuid "2a31325e-87b3-4196-8c92-25fa89945846")
+		)
+		(pin "5"
+			(uuid "9e216ad1-76e3-4e26-81e6-08919180e0f8")
+		)
+		(pin "7"
+			(uuid "fab1f8c5-864b-4555-bdfe-873dc20d0af4")
+		)
+		(pin "8"
+			(uuid "06a12475-c00c-45e8-afa9-10898be8cc8a")
+		)
+		(instances
+			(project "WortuhrNeu"
+				(path "/9cd24a17-134e-4479-bc0b-dbbeb0113d4a"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -23817,7 +25214,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Kerko THT"
 			(at 227.33 121.92 0)
 			(hide yes)
 			(show_name no)
