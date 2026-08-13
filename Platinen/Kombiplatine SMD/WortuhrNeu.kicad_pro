@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -61,14 +61,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "items_not_allowed|376174000|144780000|6d6b4d8e-6a8d-4393-8c3d-bf463bc5033f|00000000-0000-0000-0000-000000000000",
-          "We need to check wether a screw here will mess with the wifi reception"
-        ],
-        [
-          "items_not_allowed|378974000|144780000|4606980e-2ea6-4fc6-a740-14ba0ee4f836|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
         [
           "starved_thermal|66450000|146900000|a5e4ab7c-37d4-4e5c-adab-b4f0df5c8543|78107415-b39a-420e-a209-8ce1d2028245|F.Cu",
           ""
@@ -529,7 +521,6 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
-        "tuning_profile": "",
         "via_diameter": 1.2,
         "via_drill": 0.6,
         "wire_width": 6
@@ -543,7 +534,6 @@
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
-        "tuning_profile": "",
         "via_diameter": 1.2,
         "via_drill": 0.6
       },
@@ -554,13 +544,12 @@
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.2,
-        "tuning_profile": "",
         "via_diameter": 1.2,
         "via_drill": 0.6
       }
     ],
     "meta": {
-      "version": 5
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -596,7 +585,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "jlcpcb/production_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

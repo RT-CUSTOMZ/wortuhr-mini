@@ -1,0 +1,99 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,47u,CP_Radial_D10.0mm_P5.00mm,127.95,-161.482323,-90.0,top
+C10,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,330.6,-159.55,90.0,top
+C11,1nF/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,317.8,-155.8,0.0,top
+C12,1nF/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,334.75,-156.0,0.0,top
+C13,47u,CP_Radial_D10.0mm_P5.00mm,345.0,-160.717677,90.0,top
+C14,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,252.857,-159.512,90.0,top
+C15,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,208.9875,-161.5,0.0,top
+C16,1nF/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,327.15,-153.05,180.0,top
+C17,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,213.4875,-161.5,180.0,top
+C18,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,183.05,-161.35,0.0,top
+C19,np,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,357.85,-156.5,-90.0,top
+C2,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,126.4,-153.9,180.0,top
+C20,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,354.85,-157.45,-90.0,top
+C3,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,140.075,-157.05,-90.0,top
+C4,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,140.125,-162.25,90.0,top
+C5,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,137.35,-162.25,90.0,top
+C6,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,263.7,-155.3,0.0,top
+C7,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,263.1,-152.6,0.0,top
+C8,100n/X7R,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,267.85,-155.3,0.0,top
+C9,10u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,268.45,-152.6,0.0,top
+D1,1N5822,D_SMC,60.8,-163.4,0.0,top
+F1,MF-RHT100,Fuse_Bourns_MF-RHT100,52.613,-161.681,-90.0,top
+H1,MountingHole,MountingHole_3.2mm_M3_DIN965,45.974,-164.973,0.0,top
+H2,MountingHole,MountingHole_3.2mm_M3_DIN965,235.077,-157.48,0.0,top
+H3,MountingHole,MountingHole_3.2mm_M3_DIN965,352.298,-152.019,0.0,top
+H4,MountingHole,MountingHole_3.2mm_M3_DIN965,376.174,-144.78,0.0,top
+H5,MountingHole,MountingHole_3.2mm_M3_DIN965,46.101,-176.657,0.0,top
+H6,MountingHole,MountingHole_3.2mm_M3_DIN965,374.523,-176.149,180.0,top
+J1,Conn_01x01_Pin,PinHeader_1x01_P1.00mm_Vertical,327.25,-163.75,0.0,top
+J2,PROG MODE,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,345.05,-147.7,180.0,top
+J3,UART FLOATING,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,369.2,-147.05,180.0,top
+J4,UART,PinHeader_1x04_P2.54mm_Vertical,358.81,-147.0,90.0,top
+J5,Eingangsbuchse,BarrelJack_GCT_DCJ200-10-A_Horizontal,47.75,-149.55,180.0,top
+LDR1,A 905014,R_LDR_4.9x4.2mm_P2.54mm_Vertical,327.5,-149.23,90.0,top
+R1,np,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,63.8,-154.25,-90.0,top
+R10,8k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,364.871,-152.781,0.0,top
+R11,4K53,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,334.7,-158.4,0.0,top
+R12,8k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,365.95,-162.5,90.0,top
+R13,8k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,362.1,-162.45,90.0,top
+R14,8k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,360.0,-162.45,-90.0,top
+R15,91R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,368.0,-162.5,-90.0,top
+R2,22k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,146.415,-167.005,0.0,top
+R3,160k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,141.9075,-167.005,0.0,top
+R4,120R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,143.51,-147.701,90.0,top
+R5,8k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,323.0,-159.55,-90.0,top
+R6,np,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,323.05,-155.35,180.0,top
+R7,240k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,327.15,-155.35,180.0,top
+R8,100k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,183.05,-151.8,180.0,top
+R9,4K53,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,317.8,-158.15,0.0,top
+SW1,PTS645Vx83-2LFS,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,334.755,-150.3325,0.0,top
+SW2,PTS645Vx83-2LFS,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,320.255,-150.3325,0.0,top
+TH1,SL121R308,C_Disc_D12.0mm_W4.4mm_P7.75mm,58.2,-153.2,90.0,top
+U2,MCP1826-ADJE/ET,TO-263-5_TabPin3,150.525,-159.95,0.0,top
+U3,Bluepill,Bluepill,287.05,-156.65,90.0,top
+U4,DS18B20,TO-92_Inline,327.2,-159.45,90.0,top
+U5,~,DS3231 Module,237.901,-155.722,0.0,top
+U6,Arduino_Nano_Every,Arduino_Nano,196.469,-156.97,-90.0,top
+U7,ESP-07,ESP-07,364.93,-158.0,-90.0,top
+U8,Generic DCDC,Converter_DCDC_RECOM_R-78B-2.0_THT,93.7,-156.65,0.0,top
+U9,TP582,TP582,133.2125,-148.8275,180.0,top
+X1,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,60.8734,-142.75,90.0,top
+X10,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,194.1726,-142.75,90.0,top
+X11,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,227.4974,-142.75,90.0,top
+X12,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,260.8222,-142.75,90.0,top
+X13,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,244.1598,-142.75,90.0,top
+X14,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,294.147,-142.75,90.0,top
+X15,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,277.4846,-142.75,90.0,top
+X16,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,310.8094,-142.75,90.0,top
+X17,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,344.1342,-142.75,90.0,top
+X18,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,327.4718,-142.75,90.0,top
+X19,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,360.7966,-142.75,90.0,top
+X2,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,77.5358,-142.75,90.0,top
+X20,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,361.199051,-178.2,-90.0,top
+X21,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,344.536651,-178.2,-90.0,top
+X22,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,327.874251,-178.2,-90.0,top
+X23,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,311.211851,-178.2,-90.0,top
+X24,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,294.549451,-178.2,-90.0,top
+X25,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,277.887051,-178.2,-90.0,top
+X26,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,260.722,-178.1,-90.0,top
+X27,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,244.0596,-178.1,-90.0,top
+X28,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,227.4056,-178.101,-90.0,top
+X29,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,210.6056,-178.101,-90.0,top
+X3,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,94.1982,-142.75,90.0,top
+X30,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,194.0724,-178.1,-90.0,top
+X31,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,177.41,-178.1,-90.0,top
+X32,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,160.7476,-178.1,-90.0,top
+X33,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,143.625651,-178.051,-90.0,top
+X34,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,126.963251,-178.051,-90.0,top
+X35,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,110.300851,-178.051,-90.0,top
+X36,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,93.638451,-178.051,-90.0,top
+X37,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,76.976051,-178.051,-90.0,top
+X38,Conn_01x03_Pin,Pad LED Strip 1x03 2.54,60.313651,-178.051,-90.0,top
+X4,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,110.8606,-142.75,90.0,top
+X5,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,127.523,-142.75,90.0,top
+X6,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,144.1854,-142.75,90.0,top
+X7,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,160.8478,-142.75,90.0,top
+X8,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,177.5102,-142.75,90.0,top
+X9,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Vertical,210.835,-142.75,90.0,top

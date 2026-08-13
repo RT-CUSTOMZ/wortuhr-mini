@@ -1,0 +1,93 @@
+Comment,Designator,Footprint,LCSC,Quantity
+8k2,R12,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+PTS645Vx83-2LFS,SW2,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,,1
+4K53,R9,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X38,Pad LED Strip 1x03 2.54,,1
+Conn_01x01_Pin,J1,PinHeader_1x01_P1.00mm_Vertical,,1
+10u,C3,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+UART FLOATING,J3,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,,1
+Conn_01x03_Pin,X5,PinSocket_1x03_P2.54mm_Vertical,,1
+10u,C4,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+10u,C20,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+100n/X7R,C17,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+MF-RHT100,F1,Fuse_Bourns_MF-RHT100,,1
+Arduino_Nano_Every,U6,Arduino_Nano,,1
+Conn_01x03_Pin,X23,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X31,Pad LED Strip 1x03 2.54,,1
+~,U5,DS3231 Module,,1
+np,R1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X28,Pad LED Strip 1x03 2.54,,1
+np,R6,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X4,PinSocket_1x03_P2.54mm_Vertical,,1
+SL121R308,TH1,C_Disc_D12.0mm_W4.4mm_P7.75mm,,1
+Conn_01x03_Pin,X1,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X34,Pad LED Strip 1x03 2.54,,1
+100k,R8,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X7,PinSocket_1x03_P2.54mm_Vertical,,1
+8k2,R14,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X17,PinSocket_1x03_P2.54mm_Vertical,,1
+np,C19,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+PROG MODE,J2,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,,1
+160k,R3,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+47u,C13,CP_Radial_D10.0mm_P5.00mm,,1
+Conn_01x03_Pin,X24,Pad LED Strip 1x03 2.54,,1
+8k2,R10,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X3,PinSocket_1x03_P2.54mm_Vertical,,1
+1N5822,D1,D_SMC,,1
+100n/X7R,C14,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Conn_01x03_Pin,X20,Pad LED Strip 1x03 2.54,,1
+Eingangsbuchse,J5,BarrelJack_GCT_DCJ200-10-A_Horizontal,,1
+1nF/X7R,C16,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Conn_01x03_Pin,X18,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X29,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X14,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X8,PinSocket_1x03_P2.54mm_Vertical,,1
+100n/X7R,C15,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+PTS645Vx83-2LFS,SW1,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,,1
+Conn_01x03_Pin,X16,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X12,PinSocket_1x03_P2.54mm_Vertical,,1
+ESP-07,U7,ESP-07,,1
+1nF/X7R,C11,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Conn_01x03_Pin,X36,Pad LED Strip 1x03 2.54,,1
+10u,C9,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+100n/X7R,C8,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+10u,C7,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+1nF/X7R,C12,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+4K53,R11,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X32,Pad LED Strip 1x03 2.54,,1
+DS18B20,U4,TO-92_Inline,,1
+100n/X7R,C6,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Generic DCDC,U8,Converter_DCDC_RECOM_R-78B-2.0_THT,,1
+Conn_01x03_Pin,X10,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X6,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X27,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X13,PinSocket_1x03_P2.54mm_Vertical,,1
+TP582,U9,TP582,,1
+Conn_01x03_Pin,X2,PinSocket_1x03_P2.54mm_Vertical,,1
+100n/X7R,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Conn_01x03_Pin,X9,PinSocket_1x03_P2.54mm_Vertical,,1
+240k,R7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X11,PinSocket_1x03_P2.54mm_Vertical,,1
+100n/X7R,C10,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+22k,R2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X33,Pad LED Strip 1x03 2.54,,1
+91R,R15,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X30,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X26,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X35,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X15,PinSocket_1x03_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X25,Pad LED Strip 1x03 2.54,,1
+Conn_01x03_Pin,X19,PinSocket_1x03_P2.54mm_Vertical,,1
+47u,C1,CP_Radial_D10.0mm_P5.00mm,,1
+MCP1826-ADJE/ET,U2,TO-263-5_TabPin3,,1
+8k2,R13,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+100n/X7R,C18,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+8k2,R5,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X22,Pad LED Strip 1x03 2.54,,1
+100n/X7R,C5,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+A 905014,LDR1,R_LDR_4.9x4.2mm_P2.54mm_Vertical,,1
+Conn_01x03_Pin,X37,Pad LED Strip 1x03 2.54,,1
+Bluepill,U3,Bluepill,,1
+120R,R4,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+Conn_01x03_Pin,X21,Pad LED Strip 1x03 2.54,,1
+UART,J4,PinHeader_1x04_P2.54mm_Vertical,,1
